@@ -1,0 +1,17 @@
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.deps.json
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.runtimeconfig.json
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.pdb
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CopyComplete
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\refint\CleanArchitecture.Data.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.pdb
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.genruntimeconfig.cache
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Data.dll
