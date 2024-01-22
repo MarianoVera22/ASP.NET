@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SB2sDjhLtlFEvbxr3jkeg2ovGphBpC8u2wVPPzd5I2rB/opyW4xF3kc/HcVHJiXzWUISI4WDCbPfQEeChvj4/A==",
+  "dgSpecHash": "77Aa/WSlgkEJWPxykraVy5pI4sqsERXGK6v0ywAwC2NVtBampmsS8AtKZtctlVy+vSTJPk148E8siENPQARIdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+  "projectFilePath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mariano\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Mariano\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

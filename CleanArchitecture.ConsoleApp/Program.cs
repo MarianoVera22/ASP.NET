@@ -1,6 +1,4 @@
-﻿
-
-using CleanArchitecture.Data;
+﻿using CleanArchitecture.Data.Persistence;
 using CleanArchitecture.Domain;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;

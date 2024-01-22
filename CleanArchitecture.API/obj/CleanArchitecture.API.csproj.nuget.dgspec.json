@@ -35,8 +35,8 @@
               "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
                 "projectPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
-              "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
-                "projectPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj"
+              "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj"
               }
             }
           }
@@ -168,12 +168,12 @@
         }
       }
     },
-    "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
+    "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
-        "projectName": "CleanArchitecture.Data",
-        "projectPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
+        "projectName": "CleanArchitecture.Infrastructure",
+        "projectPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\CleanArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Mariano\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Mariano\\source\\repos\\CleanArchitecture.ConsoleApp\\CleanArchitecture.Data\\obj\\",
         "projectStyle": "PackageReference",
