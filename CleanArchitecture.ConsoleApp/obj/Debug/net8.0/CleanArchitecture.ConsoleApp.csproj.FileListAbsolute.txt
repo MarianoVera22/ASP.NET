@@ -132,3 +132,11 @@ C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Con
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\obj\Debug\net8.0\CleanArchitecture.ConsoleApp.pdb
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\obj\Debug\net8.0\CleanArchitecture.ConsoleApp.genruntimeconfig.cache
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\obj\Debug\net8.0\ref\CleanArchitecture.ConsoleApp.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\MediatR.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.ConsoleApp\bin\Debug\net8.0\CleanArchitecture.Application.pdb

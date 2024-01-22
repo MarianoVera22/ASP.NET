@@ -15,3 +15,5 @@ C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Dat
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.pdb
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.genruntimeconfig.cache
 C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Data.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\Mariano\source\repos\CleanArchitecture.ConsoleApp\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Application.pdb
